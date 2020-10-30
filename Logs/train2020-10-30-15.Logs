@@ -1,0 +1,5 @@
+2020-10-30 15:17:47,512 - xunlian_login.py[line:15] - INFO: carrie_c用户的信息已获取完毕
+2020-10-30 15:17:47,938 - xunlian_train.py[line:73] - INFO: carrie_c:开始构建训练镜像
+2020-10-30 15:20:19,378 - xunlian_train.py[line:84] - WARNING: carrie_c:构建成功,时间花费141.42996406555176秒
+2020-10-30 15:20:19,397 - xunlian_train.py[line:94] - INFO: carrie_c发起训练
+2020-10-30 15:20:19,591 - xunlian_train.py[line:100] - INFO: carrie_c:发起训练成功

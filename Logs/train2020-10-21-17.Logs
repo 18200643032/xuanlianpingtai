@@ -1,0 +1,7 @@
+2020-10-21 17:08:30,214 - xunlian_login.py[line:15] - INFO: zheng6用户的信息已获取完毕
+2020-10-21 17:08:31,409 - xunlian_login.py[line:164] - INFO: zheng6git信息获取完毕
+2020-10-21 17:08:43,105 - xunlian_train.py[line:33] - INFO: zheng6git代码提交完成
+2020-10-21 17:08:43,388 - xunlian_train.py[line:73] - INFO: zheng6:开始构建训练镜像
+2020-10-21 17:11:58,391 - xunlian_train.py[line:84] - WARNING: zheng6:构建成功,时间花费184.99587512016296秒
+2020-10-21 17:11:58,391 - xunlian_train.py[line:94] - INFO: zheng6发起训练
+2020-10-21 17:11:58,750 - xunlian_train.py[line:100] - INFO: zheng6:发起训练成功
