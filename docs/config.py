@@ -4,10 +4,8 @@ import os
 class Web_Config:
     git_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),"xuanliandaima")
     abc = "/api/project/{id}"
-    web_host="https://cvmart.net" #域名
-    #复地https://fudi.cvmart.net/
-    #南油http://developer.aiebuy.cn
-    #https://cvmart.net
+    web_host="https://www.baidu.com" #域名
+
     desk_login_url = "/api/login" #前端登录url
     get_project_id = "/api/project/paginate?pageSize=5&project_type=2" #获取项目ID
     get_base_user = "/api/user/base" #获取用户信息，主要是邮箱
@@ -36,10 +34,8 @@ class Web_Config:
 
 
 class Admin_Config:
-    admin_host = "https://fudi-manager.cvmart.net"#域名
-    #复地https://fudi-manager.cvmart.net
-    #南油http://ai-bg.aiebuy.cn
-    #线shang https://cvmart.net
+    admin_host = "https://www.baidu.com"#域名
+
     background_login_url = ""#后端登录url
     instancelist_url = "/api/instance-manage/instance/list"#实例列表，为获取git账号url
     git_url = "/api/instance-manage/instance/info?id={id}"#git账号等信息
